@@ -1,0 +1,38 @@
+.jumbotron{
+    margin-bottom: 10px;
+    padding: 20px 0 10px 0;
+}
+
+.listing{
+    
+}
+.listing h4{
+    
+}
+.listing .thumbnail{
+    background: none;
+}
+.listing .thumbnail img{
+    height: 200px !important;
+}
+.page-header{
+    margin: 0 0 20px;
+    padding-bottom: 5px;
+}
+.page-header h1 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.help-block{
+    font-size: smaller;
+}
+
+.category-button a.btn{
+    margin-bottom: 5px;
+}
+
+.category-button p{
+    line-height: 1.3em;
+    font-size: 1em;
+    margin: 5px 0;
+}
